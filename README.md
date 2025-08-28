@@ -5,16 +5,8 @@
 🛠️ Tech Stack: Java, Python, React, Spring Boot, SQL, Flutter, Firebase, SAP Commerce (Hybris)</br>
 🤖 Exploring AI Agents, LLMs, and automation pipelines to enhance developer productivity</br>
 🌍 Global experience spanning USA, UAE, and India across e-commerce, fintech, and SaaS domains</br>
-</br></br>
-🔬 Projects:</br>
-🎙️ Hot Takes Social – Social audio app built with Flutter + GPT sentiment analysis</br>
-🧩 AI Resume & Portfolio Agent – Custom agent answering career Qs using LLMs</br>
-📚 Constant learner: diving into System Design, Agentic AI, and Cloud Platforms</br>
-</br></br>
 🤝 Open to collaboration on AI, full-stack, and open-source projects</br>
-</br></br>
 ✨ Mission: Blend full-stack engineering with AI to build tools that solve real-world problems</br>
-</br></br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrishti2150) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrishti-s-srivastava/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrishtisrivastavas.s@gmail.com) 
 
